@@ -1,5 +1,8 @@
 console.log(1)
-console.log(11)
 console.log(3)
 console.log(41)
 console.log(5)
+console.log(6)
+console.log(3)
+console.log(4)
+
